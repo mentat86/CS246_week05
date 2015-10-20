@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CS246_week05</string>
+    <string name="title">SCRIPTURE REFERENCE APP</string>
+    <string name="bookLabel">Book</string>
+    <string name="chapterLabel">Chapter</string>
+    <string name="verseLabel">Verse(s)</string>
+    <string name="header">Your favorite scripture is: </string>
+</resources>
